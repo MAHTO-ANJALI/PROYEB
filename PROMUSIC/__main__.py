@@ -65,7 +65,7 @@ def start_flask():
 
     @flask_app.route('/')
     def home():
-        return "Hello, this is BABYMUSIC server!"
+        return "Hello Join @ProBotts On Telegram...!"
 
     flask_app.run(host='0.0.0.0', port=8000)
 
