@@ -35,14 +35,14 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 # ----------------------------------------------------------------
 
 # ----------------------------------------------------------------
-LOGGER_ID = int(getenv("LOGGER_ID", -1002100130095))
-SUB_LOG = int(getenv("SUB_LOG", -1002375785889))
+LOGGER_ID = int(getenv("LOGGER_ID", -1001970031336))
+SUB_LOG = int(getenv("SUB_LOG", -1001970031336))
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", 7355202884))
+OWNER_ID = int(getenv("OWNER_ID", 6260080241))
 
 #temp
-MAIN_OWNER = int(getenv("OWNER_ID", 7355202884))
+MAIN_OWNER = int(getenv("OWNER_ID", 6260080241))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 
@@ -66,7 +66,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 # ----------------------------------------------------------------
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/AimmXD/PROYEB",
+    "https://github.com/MAHTO-ANJALI/PROYEB",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
@@ -80,8 +80,8 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/ProBotts")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/ProBotGc")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/ANJALINETWORK")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/ANJALIWORLD")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
